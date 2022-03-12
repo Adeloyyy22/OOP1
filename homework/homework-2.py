@@ -18,6 +18,7 @@ class Jack(Person):
 
 human = Jack(90, 9, '0709442304', 400, )
 fk=human.balance
+
 class Vito(Jack):
     _n_number = 22
 

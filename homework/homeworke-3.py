@@ -33,9 +33,11 @@ class Fraction:
 a = Fraction(3,9)
 s= Fraction(2,6)
 x= a+s
-x= a-s
-x= a*s
-x= a//s
+k= a-s
+print(a)
 print(x.num)
 print('---')
 print(x.den)
+print(k.num)
+print('---')
+print(k.den)
